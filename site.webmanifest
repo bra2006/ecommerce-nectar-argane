@@ -1,0 +1,13 @@
+{
+  "name": "Nectar d'Argane",
+  "short_name": "Nectar d'Argane",
+  "description": "Huile d'argan bio, savon noir, baumes et coffrets. Cosmétique marocaine en filière équitable.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EEE4",
+  "theme_color": "#F5EEE4",
+  "lang": "fr",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
